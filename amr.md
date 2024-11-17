@@ -3921,6 +3921,8 @@ For more information about AMR and for more examples, see
  * List of AMR NE types: [https://uhermjakob.github.io/amr/lib/ne-types.html](https://uhermjakob.github.io/amr/lib/ne-types.html)
  * List of AMR roles: [https://uhermjakob.github.io/amr/lib/roles.html](https://uhermjakob.github.io/amr/lib/roles.html)
  * List of AMR quantity types: [https://uhermjakob.github.io/amr/lib/quantity-types.html](https://uhermjakob.github.io/amr/lib/quantity-types.html)
+ * List of frame arguments in PropBank (AMR version): <https://github.com/flipz357/AMR-World/blob/main/data/dictionaries/propbank-amr-frames-arg-descr.txt>
+ * List of Human Reference AMR annotations (including Bio AMR corpus and 'The Little Prince' corpus) <https://github.com/flipz357/AMR-World/tree/main/data/reference_amrs>
 
 Maintained by Ulf Hermjakob (USC/ISI).
 
