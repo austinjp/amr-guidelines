@@ -3924,7 +3924,7 @@ For more information about AMR and for more examples, see
  * List of frame arguments in PropBank (AMR version): <https://github.com/flipz357/AMR-World/blob/main/data/dictionaries/propbank-amr-frames-arg-descr.txt>
  * List of Human Reference AMR annotations (including Bio AMR corpus and 'The Little Prince' corpus) <https://github.com/flipz357/AMR-World/tree/main/data/reference_amrs>
 
-Maintained by Ulf Hermjakob (USC/ISI).
+Maintained by Ulf Hermjakob (USC/ISI) and Juri Opitz (University of Zurich, Department of Computational Linguistics).
 
 AMR Freak Show
 --------------
